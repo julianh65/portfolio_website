@@ -529,7 +529,7 @@ strong {
 }
 
 .intro__hello .wave-hand {
-    background-image: url(/img/emojis/wave.png);
+    background-image: url(./img/emojis/wave.png);
     margin-left: 10px;
     cursor: pointer
 }
@@ -587,7 +587,7 @@ strong {
 }
 
 .intro__tagline .technologist {
-    background-image: url(/img/emojis/technologist.png)
+    background-image: url(./img/emojis/technologist.png)
 }
 
 .intro__contact {
@@ -602,7 +602,7 @@ strong {
 }
 
 .intro__contact .emoji.pointer {
-    background-image: url(/img/emojis/pointright.png);
+    background-image: url(./img/emojis/pointright.png);
     width: 30px;
     height: 30px;
     margin: 0 5px;
